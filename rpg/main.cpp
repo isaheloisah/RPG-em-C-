@@ -1,4 +1,4 @@
-#include "game.h"
+#include "game.h"  // Inclua este cabeçalho para ter acesso a drawNewGame
 #include <ncurses.h>
 #include <cstring>
 
